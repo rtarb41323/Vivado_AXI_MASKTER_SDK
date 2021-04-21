@@ -11,3 +11,6 @@ launching Vivado SDK, go to "File" -> "New" -> "Application Project", name your 
 select the "Helloworld.c" project template.  THEN, replace the contents of the "Helloworld.c" 
 file with the "Helloworld.c" file in THIS repository.
 
+Compile and run this project, and open a serial port in the SDK debugger view.  
+The serial port displays the "inputs" and "outputs" of the project and accelerator function.
+
